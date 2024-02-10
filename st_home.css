@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+  
+ 
+.title {
+    margin: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+  
+h3{
+    margin: 0.5px;
+    text-align: center;
+}
+
+.english_btn {
+    border: 3px solid black; /* 1pxの黒い線で囲む */
+    padding: 5px; /* テキストと線の間に5pxの余白を設定 */
+    display: inline-block; /* テキストの横幅に合わせて線を表示 */
+    text-align: left;
+    margin-left: 20px; 
+}
+
+.main {
+    font-size: 20px;
+    flex: 1; /* 余白を埋めるために flex を使用 */
+    display: flex;
+}
+
+
+.left-column {
+    flex: 1; /* 左側のコンテンツが残りのスペースをいっぱいに占めるようにする */
+}
+
+.right-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+    align-items: center;
+}
+
+.right-column img {
+    max-width: 100%; /* 親要素に合わせて横幅いっぱいに広げる */
+    max-height: 300px; /* 最大の高さを指定（必要に応じて調整） */
+    width: auto; /* 高さに合わせて横幅を自動調整 */
+    height: auto; /* アスペクト比を保つ */
+    display: block; /* 不要な空白をなくすためにブロック要素にする */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid black;
+  }
