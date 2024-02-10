@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+.title {
+  margin: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+main {
+  font-size: 20px;
+  flex: 1; /* 余白を埋めるために flex を使用 */
+}
+
+.zentai{
+  font-size: 27px;
+}
+
+.gakureki{
+  font-size: 20px;
+  list-style: none;
+}
+
+.link-separator{
+  margin-right: 10px;
+}
+
+.text-container {
+  text-align: justify;
+  max-width: 900px;
+}
+
+.text-container p {
+  display: inline;
+}
+
+.Teaching_Assistant{
+  margin-top: 10px;
+}
+
+.TA{
+  font-size: 23px;
+  list-style: decimal;
+  transform: rotate(180deg);
+}
+
+.TA li{
+  list-style-position: inside;
+  padding-left: 40px; 
+  font-size: 20px;
+  transform: rotate(-180deg);
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  text-align: center;
+  padding: 10px;
+  border-top: 2px solid black;
+}
