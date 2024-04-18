@@ -57,6 +57,30 @@ main {
   transform: rotate(-180deg);
 }
 
+.TA {
+  list-style: none;
+  counter-reset: my-counter;
+}
+
+.TA li {
+  list-style-position: inside;
+  padding-left: 40px;
+  font-size: 20px;
+  position: relative; /* 相対位置指定 */
+  margin-bottom: 5px; /* リストアイテムの間隔を調整する場合に追加 */
+}
+
+.TA li:before {
+  content: counter(my-counter) ". ";
+  counter-increment: my-counter;
+  display: inline-block;
+  text-align: right;
+  width: 40px; /* リスト番号の幅を指定 */
+  position: absolute; /* 絶対位置指定 */
+  left: 0; /* 左端に配置 */
+  top: 5px; /* 上端に配置 */
+}
+
 .text-container2 {
   font-size: 20px;
   text-indent: 2em;
