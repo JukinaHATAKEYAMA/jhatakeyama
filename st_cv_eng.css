@@ -36,6 +36,12 @@ main {
   max-width: 900px;
 }
 
+.text-container2 {
+  text-align: justify;
+  max-width: 1000px;
+  font-size: 20px;
+}
+
 .text-container p {
   display: inline;
 }
