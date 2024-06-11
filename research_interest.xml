@@ -1,32 +1,23 @@
-<!DOCTYPE html>
-<html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta charset="utf-8">
-    <title>C.V.</title>
-    <link rel="stylesheet" href="st_research_intarest.css">
+    <meta charset="utf-8" />
+    <title>Research Interest</title>
+    <link rel="stylesheet" href="st_research_intarest.css" />
   </head>
   <body>
     <div class="header">
-        <h1 class="title">
-            研究テーマや関心
-        </h1>
+      <h1 class="title">研究テーマや関心</h1>
     </div>
-
     <div class="main">
-        <ul class="gakureki">
-            <li>
-                研究分野：計量経済学
-            </li>
-            
-            <li>
-                関心：空間重み行列の推定，産業組織論分野の研究手法
-            </li>
-        </ul>
+      <ul class="gakureki">
+        <li>研究分野：計量経済学</li>
+        <li>関心：空間重み行列の推定，産業組織論分野の研究手法</li>
+      </ul>
     </div>
-
+    <footer>
+      <a href="index.html">ホームへ戻る</a>
+    </footer>
   </body>
-
-  <footer>
-    <a href="index.html">ホームへ戻る</a>
-</footer>
 </html>
