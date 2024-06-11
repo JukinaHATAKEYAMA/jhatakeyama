@@ -47,14 +47,14 @@ main {
 .TA{
   font-size: 23px;
   list-style: decimal;
-  transform: rotate(180deg)
+  transform: rotate(180deg);
 }
 
 .TA li{
   list-style-position: inside;
   padding-left: 40px; 
   font-size: 20px;
-  transform: rotate(-180deg)
+  transform: rotate(-180deg);
 }
 
 .TA {
