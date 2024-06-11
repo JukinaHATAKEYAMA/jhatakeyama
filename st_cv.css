@@ -47,8 +47,6 @@ main {
 .TA{
   font-size: 23px;
   list-style: decimal;
-  writing-mode: horizontal-tb;
-  transform: rotate(-180deg);
 }
 
 .TA li{
