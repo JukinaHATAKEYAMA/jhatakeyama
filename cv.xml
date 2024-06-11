@@ -50,7 +50,7 @@
                 
                 <li class="Teaching_Assistant">
                     Teaching Assistant など
-                    <ol reversed class="TA">
+                    <ol reversed>
                         <li>
                             <a href="https://cobe-tech.co.jp/">CoBe-Tech株式会社</a> 行動科学コンサルティング本部 ジュニアデータサイエンティスト (2024年4月 - 2025年2月)
                         </li>
