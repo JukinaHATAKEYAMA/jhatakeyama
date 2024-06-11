@@ -50,47 +50,38 @@
                 
                 <li class="Teaching_Assistant">
                     Teaching Assistant など
-                    <UL class="TA">
-                        <li>
-                            大阪大学 経済学研究科 TA『計量経済 （<a href="https://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-j.htm">谷崎久志</a> ）』 (2023年10月 - 2024年2月)
-                        </li>
-
-                        <li>
-                            大阪大学 経済学研究科 TA『各論(行動経済学) (<a href="https://www2.econ.osaka-u.ac.jp/~ohtake/">大竹文雄</a>)』 (2023年10月 - 2024年2月)
-                        </li>
-
-                        <li>
-                            大阪大学経済学研究科 留学生チューター (2023年9月 - 2024年2月)
-                        </li>
-
-                        <li>
-                            <a href="https://cobe-tech.co.jp/">CoBe-Tech株式会社</a>　行動科学コンサルティング本部　RA (2024年2月 - 2024年3月)
-                        </li>
-
-                        <li>
-                            大阪大学 経済学研究科 TF『計量経済I（<a href="https://sites.google.com/site/poignardbenjamin">Benjamin Poignard</a>）』 (2024年4月 - 2025年2月)
-                        </li>
-
-                        <li>
-                            大阪大学 経済学研究科 TF『計量経済II（<a href="https://www2.econ.osaka-u.ac.jp/~takeuchi/">竹内惠行</a>）』 (2024年4月 - 2025年2月)
-                        </li>
-
-                        <li>
-                            大阪大学 経済学研究科 TF『各論(行動経済学) (<a href="https://www2.econ.osaka-u.ac.jp/~ohtake/">大竹文雄</a>)』(2024年4月 - 2025年2月)
-                        </li>
-
-                        <li>
-                            大阪大学 経済学研究科 TF『特殊講義（資本市場の役割と證券投資）等（<a href="https://sites.google.com/site/masatonishiwakiswebsite/">西脇雅人</a>，オムニバス（非常勤講師））』(2024年4月 - 2025年2月)
-                        </li>
-
-                        <li>
-                            大阪大学 感染症総合教育研究拠点 RA (2024年4月 - 2025年2月)
-                        </li>
-
+                    <ol reversed class="TA">
                         <li>
                             <a href="https://cobe-tech.co.jp/">CoBe-Tech株式会社</a> 行動科学コンサルティング本部 ジュニアデータサイエンティスト (2024年4月 - 2025年2月)
                         </li>
-                    </UL>
+                        <li>
+                            大阪大学 感染症総合教育研究拠点 RA (2024年4月 - 2025年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TF『特殊講義（資本市場の役割と證券投資）等（<a href="https://sites.google.com/site/masatonishiwakiswebsite/">西脇雅人</a>，オムニバス（非常勤講師））』(2024年4月 - 2025年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TF『各論(行動経済学) (<a href="https://www2.econ.osaka-u.ac.jp/~ohtake/">大竹文雄</a>)』(2024年4月 - 2025年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TF『計量経済II（<a href="https://www2.econ.osaka-u.ac.jp/~takeuchi/">竹内惠行</a>）』 (2024年4月 - 2025年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TF『計量経済I（<a href="https://sites.google.com/site/poignardbenjamin">Benjamin Poignard</a>）』 (2024年4月 - 2025年2月)
+                        </li>
+                        <li>
+                            <a href="https://cobe-tech.co.jp/">CoBe-Tech株式会社</a>　行動科学コンサルティング本部　RA (2024年2月 - 2024年3月)
+                        </li>
+                        <li>
+                            大阪大学経済学研究科 留学生チューター (2023年9月 - 2024年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TA『各論(行動経済学) (<a href="https://www2.econ.osaka-u.ac.jp/~ohtake/">大竹文雄</a>)』 (2023年10月 - 2024年2月)
+                        </li>
+                        <li>
+                            大阪大学 経済学研究科 TA『計量経済 （<a href="https://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-j.htm">谷崎久志</a> ）』 (2023年10月 - 2024年2月)
+                        </li>
+                    </ol>
                 </li> 
                 <br />
                 <div class="text-container2">
